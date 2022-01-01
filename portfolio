@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+	</head>
+	 <menu>
+        <div id="contents">
+            <h2 style="font-weight: 30">Contents:</h2>
+<ul>
+<li><a href="#One">My Story</a></li>
+<li><a href="#Two">Works</a></li>
+<li><a href="#Three">Contact</a></li>
+    <li><a href="#Four">Locations</a></li>
+
+</ul>
+    </div>   
+       </menu>   
+    
+    <body>
+
+        <main>
+      
+            <div class="main-header" >
+        <h1 style="font-weight: 100"> Inked by SL </h1>
+        <h4>Designer & Tattoo Artist </h4> 
+            </div>
+            
+                  <img src= "images/Girl.jpg" id="girl" alt="girldesign" class="center" width="auto">
+                
+        <!---this is a butterfly-->
+    
+        <img src= "images/butterfly.gif" alt= "butterfly" id="butterfly" width="auto">
+        <img src= "images/butterflytwo.gif" alt= "butterflytwo" id="butterflytwo" width="auto">
+
+        
+    <div id="text"> 
+                 <p>
+       <div id="intro">     <strong> Hi there! </strong> My name is Sandy Lin, I'm a freelance illustrator, designer, and tattoo artist based in Toronto, Ontario. I work with a multitude of clients but mainly in tattoo designs, advertising, and illustration. I believe in visual story-telling, how creativity communicates through you. 
+        </div>
+                
+           <h1><a name="One"style="font-weight: 40" >My Story</a></h1>
+ <div id="mystory">      <p> So how did I start? 
+        My love for tattoos has always been an ever present characteristic since I was a child, and as time went on, it only flourished.
+        In school, I was quite shy, and kept to myself, instead of listening to my teachers, I opted to spend my time drawing. And this habit soon became long sessions decorating my skin with intricate designs using ballpoint pens, eyeliner, and sealing it with hairspray.
+    
+     <br> </br>
+     My "mock" tattoo sleeves started to gain traction among my friends, and the next thing I knew, I would spend at least one hour of my time in the school day <i>tattooing</i> someone.</p>  </div>
+<br> </br>
+      
+
+        <br>
+<div id="mystorypt2" >
+            <p>
+    However, it was the look of pure happiness and awe of their reactions when I finished drawing on them that helped me from my romance with body art. Ever since then, it's been one of my biggest goals to become a tattoo artist, and over the course of 2019, through online courses and experimentation, I taught myself the art of tattooing. 
+                <br> </br>
+                Don't get me wrong though, I'm still learning, and I know that I still have a long way to go before I reach the level of artistry I aspire to be at.</p>
+  <p>
+Currently, I work mainly in black and grey, with splashes of red and blue, in my own version of asian traditional style, and mainly in black and grey with small pops of colour.
+          
+          
+         At the moment, I'm studying Global Business and Digital Arts at the University of Waterloo, however, I'm also open to tattoo apprenticeship opportunities. 
+</p>
+            
+<!---images --->
+<div class="row">
+  <div class="column">
+    <img src="images/tattoobefore.PNG" alt="pentattoo" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/tattoofull.JPG" alt="pentattoofull" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/tattooafter.JPG" alt="pentattooreal" style="width:100%">
+  </div>
+</div>
+
+       <h1><a name="Two"style="font-weight: 40">Works</a></h1>
+<div id="workstext">
+        <p> My style is heavily inspired by my Chinese heritage and the tranquil and beautiful elements of nature.
+        I offer both temporary and permanent tattoos, suitable for all ranges of skin tones and body types.
+        Here is a little sneak peek into how I design and tattoo my own custom hand drawn tattoos.
+</p>
+</div>
+
+<h3 style="font-weight: 50"> Design Process </h3>
+
+<div id="designpro">
+        <p>My design process always starts out with composing a list of the elements, concepts, and colour palettes the client gives me. Browsing Pinterest, Instagram, VSCO, to help me ideate and visualize the tattoo. Then, I look at the placement and determine any flattering shapes that would help contour the body (whilst keeping in mind the elements to include). I would build out my image with blobs and rough sketches, before developing it's features. When I am ready for the features, I load up my sketch into my iPad and use procreate with an A4 document to draw out my design. Each and every one of my tattoo stencils have been hand-drawn, the maximize detail and precision in my tattoos. </p>
+
+</div>
+
+<!--- this image gallery was a code I learned and modified from this link
+
+Author: W3Schools
+https://www.w3schools.com/tags/tag_video.asp
+
+--->       
+<div id="processgallery"> 
+<video width="30%" height = "580px" controls>
+    <source src="images/works/process/Process.mp4">
+</video>
+</div>
+
+<!---code ends here--->
+
+
+<h3 style="font-weight: 50">Finished works(fresh) </h3>
+
+        <!---this is a image gallery, permanent tattoos --->
+        <div id="gallery">
+            <a target="_blank" href="images/works/tat1.jpg">
+            <img src="images/works/tat1.jpg" width="30%">
+                </a>
+        </div>
+    <div id="gallery">
+            <a target="_blank" href="images/works/tat.jpg">
+            <img src="images/works/tat.jpg" width="30%">
+                </a>
+        </div>
+         <div id="gallery">
+            <a target="_blank" href="images/works/tat2.jpg">
+            <img src="images/works/tat2.jpg" width="30%">
+                </a>
+        </div>
+      <div id="gallery">
+            <a target="_blank" href="images/works/tat3.jpg">
+            <img src="images/works/tat3.jpg" width="30%">
+                </a>
+        </div>
+         <div id="gallery">
+            <a target="_blank" href="images/works/tat4.jpg">
+            <img src="images/works/tat4.jpg" width="30%">
+                </a>
+              <div id="gallery">
+            <a target="_blank" href="images/works/tat5.jpg">
+            <img src="images/works/tat5.jpg" width="30%">
+                </a>
+        </div>
+        </div>
+
+
+<h3 style="font-weight: 50">Finished works(healed)  </h3>
+
+        <!---this is a image gallery, permanent tattoos (healed) --->
+
+<div id="gallery2">
+    <a target="_blank" href="images/works/healed/healed1.jpg">
+    <img src="images/works/healed/healed1.jpg" width="30%">
+    </a>
+</div>
+
+<div id="gallery2">
+    <a target="_blank" href="images/works/healed/healed2.jpg">
+    <img src="images/works/healed/healed2.jpg" width="30%">
+    </a>
+</div>
+  
+
+<!--- this image gallery was a code I learned and modified from this link
+
+Author: W3Schools
+https://www.w3schools.com/tags/tag_video.asp
+
+--->       
+<div id="gallery2"> 
+<video width="30%" height = "580px" controls>
+    <source src="images/works/healed/healedvideo.mp4">
+</video>
+</div>
+
+<!---code ends here--->
+
+
+ <h1><a name="Three"style="font-weight: 40">Contact</a></h1>
+<!--- this is a table --->
+<table style="width:100%;">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>Inked by SL</td>
+    <td>Instagram</td>
+    <td><a target="_blank" href="https://www.instagram.com/inkedby_sl/" id="insta" style="font-family: inter; float: center"> @inkedby_sl</a></td>
+  </tr>
+  <tr>
+    <td>Design by SL</td>
+    <td>Instagram</td>
+    <td><a target="_blank" href="https://www.instagram.com/designbysl_/" id="insta2" style="font-family: inter; float: center"> @designbysl_</a></td>
+  </tr>
+    <tr>
+    <td>Email Me</td>
+        <td>Outlook</td>
+        <td> <a target ="_blank" href="mailto: s294lin@uwaterloo.ca">Send email</a></td>
+    </tr>
+</table>
+
+</div>
+
+     <h1><a name="Four"style="font-weight: 40" >Locations</a></h1>
+    <div id="locations">
+        <div class="container">
+<img src="images/Locations/toronto.jpg" alt="toronto" class="image" width="auto">
+            <div class="overlay">
+    <div class="text"> Toronto </div></div>
+</div>
+
+<div class="container">
+<img src="images/Locations/waterloo.jpg" alt="waterloo" class="image" width="auto">
+    <div class="overlay">
+    <div class="text"> Waterloo </div></div>
+</div>
+
+        <!---this is a butterfly-->
+    
+        <img src= "images/butterfly.gif" alt= "butterfly" style="width: 300px; height: 337px; object-fit: cover;"/>  
+        
+        <img src="images/homescreen.png" alt= "designgraphic" width="600px;">
+        
+        
+        
+</main>
+    </body>
